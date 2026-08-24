@@ -54,3 +54,18 @@ O site oficial atual exibe `(73) 98239-2994`, por isso esse foi o telefone adota
 - Em `prefers-reduced-motion`, a página apresenta o estado final sem forçar animação.
 - Frames desktop: `assets/frames/desktop/scene_001.webp` → `scene_110.webp`.
 - Frames mobile: `assets/frames/mobile/scene_001.webp` → `scene_110.webp`.
+
+## Polimento visual v2
+
+A versão atual recebeu uma revisão de hierarquia e responsividade:
+
+- headline principal e textos institucionais reescritos para uma comunicação mais objetiva e premium;
+- tamanhos de títulos e parágrafos recalibrados para desktop, tablet e celular;
+- cards de serviços reorganizados em grade 2x2 no desktop, com listas internas em duas colunas;
+- cards institucionais mais compactos e equilibrados;
+- grade da equipe reconstruída em 12 colunas, com os dois últimos perfis centralizados no desktop;
+- portfólio com espaçamento e legendas refinados;
+- processo, Instagram, credenciais e contato com proporções e espaçamentos revisados;
+- filtros do portfólio com rolagem horizontal no celular;
+- formulário e botões ajustados para melhor leitura e toque em telas menores;
+- sequência paramétrica preservada, com os assets desktop/mobile e carregamento progressivo já existentes.
